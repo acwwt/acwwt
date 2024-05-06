@@ -9,7 +9,7 @@
 </picture>
 </h3>
 
-- 🔭 I’m currently working on [Tomb-Robber-Chat](https://github.com/acwwt/Tomb-Robber-Chat)，一个基于盗墓笔记小说构建的剧本式对话模型，目前处于尝试阶段
+- 🔭 I’m currently working on [Doraemon](https://github.com/acwwt/Doraemon)
 
 - 🌱 I’m currently learning **周志华老师的《机器学习》**
 
