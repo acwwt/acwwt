@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mikey</h1>
-<h3 align="center">一名大三的学生，最近正在学习AI</h3>
+<h3 align="center">一名大三学生，AI初学者</h3>
 
 <h3 align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png" width="80" height="80" >
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="80" height="80" >
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="80" height="80" >
+  <img src="https://oss.lingkongstudy.com.cn/blog/202405132003041.png">
 </picture>
 </h3>
 
 - 🔭 I’m currently working on [Doraemon](https://github.com/acwwt/Doraemon)
+
+<img alt="Doraemon" src="https://oss.lingkongstudy.com.cn/blog/202405131653596.png" style="width:50%; height:50%; border-radius: 20px;"> 
 
 - 🌱 I’m currently learning **周志华老师的《机器学习》**
 
