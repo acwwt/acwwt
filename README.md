@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Doraemon](https://github.com/acwwt/Doraemon)
 
-<img alt="Doraemon" src="https://oss.lingkongstudy.com.cn/blog/202405131653596.png" style="width:50%; height:50%; border-radius: 20px;"> 
+<img alt="Doraemon" src="https://oss.lingkongstudy.com.cn/blog/202405131653596.png"> 
 
 - 🌱 I’m currently learning **周志华老师的《机器学习》**
 
