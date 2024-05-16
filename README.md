@@ -2,9 +2,7 @@
 <h3 align="center">一名大三学生，AI初学者</h3>
 
 <h3 align="center">
-<picture>
-  <img src="https://oss.lingkongstudy.com.cn/blog/202405132003041.png">
-</picture>
+<img src="https://oss.lingkongstudy.com.cn/blog/202405132003041.png">
 </h3>
 
 - 🔭 I’m currently working on [Doraemon](https://github.com/acwwt/Doraemon)
